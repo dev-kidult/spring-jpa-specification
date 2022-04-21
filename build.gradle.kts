@@ -22,7 +22,7 @@ dependencies {
     implementation("com.fasterxml.jackson.module:jackson-module-kotlin")
 
     // spring-filter ( jpa specification)
-    implementation("com.turkraft.spring-filter:2.0.8")
+    implementation("com.turkraft:spring-filter:2.0.8")
 
     implementation("org.jetbrains.kotlin:kotlin-reflect")
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
