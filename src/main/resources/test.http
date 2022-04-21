@@ -1,0 +1,2 @@
+###
+GET http://localhost:8081/api/v1/users?page=1&filter=age%3E%3A10%20and%20(name~'김%25'%20or%20name~'이%25')
